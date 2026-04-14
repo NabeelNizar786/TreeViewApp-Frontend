@@ -3,7 +3,7 @@ import axios from "axios";
 import TagView from "./TagView";
 import "./App.css";
 
-const API_BASE = "http://3.110.147.183:8000/trees";
+const API_BASE = "http://3.110.147.183:8000/api/trees";
 
 const defaultTree = {
   name: "root",
