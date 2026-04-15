@@ -54,7 +54,7 @@ function App() {
               className="export-btn"
               onClick={() => handleExport(treeRecord)}
             >
-              Export JSON
+              Export
             </button>
           </div>
         ))
